@@ -1,0 +1,34 @@
+{
+    "env": {
+        "TOKEN": "MTAyMTM0NzczMDc3NTM1OTU2OQ.GfG6nL.vw2i2idckhkpnuN0NC6nKCVLiqC-q7WXEv7-L4",
+        "PREFIX": ".",
+        "MongoDB_TOKEN": "mongodb+srv://deadloom:deadloom@cluster0.k38kcpb.mongodb.net/?retryWrites=true&w=majority",
+        "INVITE": "deadloom",
+        "WEBSITE": "deadloom",
+        "google_API": "AIzaSyC5kh2w3a-N3-InKViai6VPmdci7hQACc4",
+        "google_Engine_id": "420d51bda1a4e4c43",
+        "news_API": "7a11772cc0a2412a8764ac62155c4612 ",
+        "giphy_API": "fVOXbfcBdwPBcdbkW8fXWpovxitLDb4K "
+    },
+    "music": {
+        "musicRequestImage": "",
+        "youtubeCookie": ""
+    },
+    "botlogs": {
+        "inviteLogs": "1021348374722650125",
+        "feedbackChannel": "1021348374722650125",
+        "bugChannel": "1021348374722650125",
+        "suggestionChannel": "1021348374722650125",
+        "commandLogsChannel": "1021348374722650125",
+        "errorLogsChannel": "1021348374722650125",
+        "premiumLogChannel": "1021348374722650125"
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    "Premium_Activator": "846641107864780820", 
+    "ownerID": ["846641107864780820", "846641107864780820", "846641107864780820", "846641107864780820"],
+    "SlashCommandsGlobal": true,
+    "SlashCommand_Server_id": "1021348374722650122",
+    "Enable_MongoDB": true
+}
